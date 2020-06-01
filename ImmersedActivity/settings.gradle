@@ -1,0 +1,3 @@
+include ':immersedlibrary'
+include ':app'
+rootProject.name = "ImmersedActivity"
